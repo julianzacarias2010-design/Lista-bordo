@@ -1,13 +1,11 @@
-// Pegá aquí la configuración que Firebase te entrega al registrar una aplicación web.
-// Mientras FIREBASE_ENABLED sea false, la página funciona como demostración local.
-// Para activar Google, likes/comentarios persistentes y propuestas nuevas, completá este archivo.
-export const FIREBASE_ENABLED = false;
+export const FIREBASE_ENABLED = true;
 
 export const firebaseConfig = {
-  apiKey: "PEGAR_API_KEY",
-  authDomain: "PEGAR_AUTH_DOMAIN",
-  projectId: "PEGAR_PROJECT_ID",
-  storageBucket: "PEGAR_STORAGE_BUCKET",
-  messagingSenderId: "PEGAR_MESSAGING_SENDER_ID",
-  appId: "PEGAR_APP_ID"
+  apiKey: "AIzaSyCAnxFUS1Y0LQ6xxxtNJ5iX7vZLiXqldSM",
+  authDomain: "xdddd-646f7.firebaseapp.com",
+  projectId: "xdddd-646f7",
+  storageBucket: "xdddd-646f7.firebasestorage.app",
+  messagingSenderId: "733786095778",
+  appId: "1:733786095778:web:12fd9bb7b0cea9f6a0d7fb",
+  measurementId: "G-B22VDYMJGZ"
 };
